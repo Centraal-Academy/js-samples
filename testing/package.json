@@ -6,8 +6,8 @@
     "test:coverage": "nyc mocha",
     "test:jest": "jest"
   },
-  "jest" : {
-    "verbose" : true
+  "jest": {
+    "verbose": true
   },
   "license": "MIT",
   "dependencies": {},
